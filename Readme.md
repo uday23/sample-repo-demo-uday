@@ -14,6 +14,9 @@ I am in feature branch
 
 I am learning git
 
+## This change is in feature1 
+
+coding in feature1 :: 
 
 
 
