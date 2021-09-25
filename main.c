@@ -10,5 +10,15 @@ int main()
     
     printf("This is 1st file\n");
 
+    int *ptr;
+
+    int var;
+
+    var = &ptr;
+
+    *ptr = 100;
+
+    printf("value of var = %p\n", *ptr);
+
     return 0;
 }
