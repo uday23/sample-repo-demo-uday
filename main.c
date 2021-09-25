@@ -10,6 +10,15 @@ int main()
     
     printf("This is 1st file\n");
 
+    int y, z;
+    
+    y = 10;
+
+    z = 20;
+
+    x = y + z;
+
+    printf("Value of x = %d\n", x);
     int *ptr;
 
     int var;
